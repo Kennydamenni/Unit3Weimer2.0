@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1765196076022852192}
   m_Layer: 0
   m_Name: SimplePeople_Man_Business_Brown
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116,8 +116,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1.2345953, y: 3.53142, z: 1}
-  m_Center: {x: -0.011829019, y: 1.26571, z: -5.3944087e-17}
+  m_Size: {x: 1.2345953, y: 3.1097136, z: 1}
+  m_Center: {x: -0.011829019, y: 1.476563, z: -5.3944087e-17}
 --- !u!114 &1765196076022852192
 MonoBehaviour:
   m_ObjectHideFlags: 0
